@@ -242,8 +242,3 @@ Cavity resonators play a vital role in modern RF and microwave systems. Their ab
 <img width="1792" height="1024" alt="image" src="https://github.com/user-attachments/assets/745cebe9-c746-4814-82b2-ea16f2ad1fad" />
 
 ---
-
-* Make a **PDF**
-* Convert this to a **PowerPoint**
-* Make it shorter/longer based on your requirement
-  Just tell me!
